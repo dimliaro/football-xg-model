@@ -1,5 +1,8 @@
 # Football xG Model
-This project aims to build an Expected Goals (xG) model for futsal, using manually collected event data from matches.
+This project was created  by me, voluntarily, driven purely by my passion for data analysis and futsal. I decided to publish it on GitHub to document my learning process, demonstrate my interest in sports analytics, and show that I am committed to improving my skills through real, hands-on projects.
+
+I still have a lot to learn, but this repository reflects my effort to build something meaningful from scratch and to keep growing as I explore the world of football and futsal analytics.
+The project aims to build an Expected Goals (xG) model for futsal, using manually collected event data from matches.
 Since no public futsal event datasets exist, the project includes a custom data collection process, feature engineering, and the first version of a machine learning model that predicts the probability that a shot becomes a goal.
 
 
